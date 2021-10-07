@@ -1334,8 +1334,8 @@ TextButton_8.MouseButton1Down:connect(function()
 	Rejoin.Position = UDim2.new(0.527297497, 0, 0.543592811, 0)
 	Rejoin.Size = UDim2.new(0.205630973, 0, 0.101785749, 0)
 	Rejoin.Font = Enum.Font.SourceSansSemibold
-	Rejoin.Text = "V.I.P Server"
-	Rejoin.TextColor3 = Color3.fromRGB(255,0,255)
+	Rejoin.Text = "Join Game"
+	Rejoin.TextColor3 = Color3.fromRGB(255,215,0)
 	Rejoin.TextSize = 16.000
 	Rejoin.TextStrokeColor3 = Color3.fromRGB(255, 255, 255)
 	Rejoin.TextStrokeTransparency = 0.900
