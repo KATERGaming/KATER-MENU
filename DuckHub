@@ -1,1 +1,1 @@
-game:GetService("Players").LocalPlayer:Kick("Lol")
+game:GetService("Players").LocalPlayer:Kick("Kater Hub is Working on DuckHub!")
