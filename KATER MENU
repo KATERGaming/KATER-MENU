@@ -11,17 +11,3 @@ while true do
     game.Lighting.TimeOfDay = 12
     wait(0.1)
 end
-
-wait(0.1)
-
-while true do
-setting = settings().Network
-local Effect = Instance.new("ColorCorrectionEffect")
-Effect.Parent = game.Lighting
-Effect.Saturation = -1
-Effect.Brightness = 0
-Effect.Contrast = 0
-
-
-setting.IncomingReplicationLag = 100000000000000
-end
